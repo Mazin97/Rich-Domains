@@ -18,3 +18,8 @@ For study purposes. This repo contains the code used in Batal's course.
 - Handlers
 - Repository Pattern
 - Queries
+
+
+## Running
+
+clone the repo and just ``` dotnet build ``` in your console. (Required ASP.NET 6 or higher)
